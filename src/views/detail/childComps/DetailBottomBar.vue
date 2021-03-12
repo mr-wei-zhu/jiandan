@@ -13,7 +13,7 @@
       <p>收藏</p>
     </div>
     <div class="btn cart-btn" @click="addToCart">加入购物车</div>
-    <div class="btn buy-btn" @click="buyclick">购买d</div>
+    <div class="btn buy-btn" @click="buyclick">购买</div>
   </div>
 </template>
 
